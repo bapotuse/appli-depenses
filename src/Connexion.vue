@@ -1,6 +1,6 @@
 <script setup></script>
 
-<template><RouterLink to="/connexion"> lala </RouterLink></template>
+<template><RouterLink to="/"> lolo </RouterLink></template>
 
 <style scoped>
 * {
