@@ -1,6 +1,8 @@
 <script setup></script>
 
-<template><RouterLink to="/connexion"> lala </RouterLink></template>
+<template>
+  <RouterView />
+</template>
 
 <style scoped>
 * {
